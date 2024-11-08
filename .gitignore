@@ -1,0 +1,19 @@
+#Dependencias de node_modules
+node_modules/
+
+#archivos y carpetas de compilacion
+
+platforms/
+plugins/
+www/
+build/
+
+#archivos de desarrollo
+
+.idea/
+.vscode/
+.DS_Store
+.env
+
+#logs y reportes
+*.log
